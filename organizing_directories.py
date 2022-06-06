@@ -28,3 +28,4 @@ def organize_directory():
         file_path.rename(directory_path.joinpath(file_path))
         
         
+ organize_directory()
